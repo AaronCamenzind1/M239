@@ -8,7 +8,7 @@ function App() {
         
         <img src="https://joker-it.ch/wp-content/uploads/2019/03/bbzw.jpg" className="App-logo" alt="logo" />
         
-        <h1>BBZW Hall of fame</h1>
+        <h1>BBZW Hall of Meme</h1>
         <br>
         <br>
         <div class="max-w-sm rounded overflow-hidden shadow-lg">
