@@ -10,7 +10,7 @@ function App() {
         
         <h1>BBZW Hall of Meme</h1>
         <br>
-        <br>
+        
         <div class="max-w-sm rounded overflow-hidden shadow-lg">
           <img class="w-full" src="/public/" alt="Meme">
           <div class="px-6 py-4">
